@@ -11,7 +11,7 @@ Typically, you would take the following steps when working with components such 
   2.  Use a widget component (such as `CListView` or `CGridView` ) and configure it to display the data.
   3.  Customize the widget to reflect the presentational style that you are after. 
  
-In this guide all these will be covered in detail.
+In this guide all these topics will be covered in detail.
 
 ~~~
 data-provider-intro
