@@ -7,7 +7,7 @@ handles pagination and sorting.
 It can be used by grids, lists and all other classes extended from
 `CBaseListView` as well as in custom code.
 
-In Yii there three default data providers: `CActiveDataProvider`, `CArrayDataProvider`
+In Yii there are three default data providers: `CActiveDataProvider`, `CArrayDataProvider`
 and `CSqlDataProvider`.
 
 Active data provider
